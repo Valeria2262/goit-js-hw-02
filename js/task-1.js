@@ -1,6 +1,4 @@
 
-/* Первая задача */
-
 
 function makeTransaction(quantity, pricePerDroid, customerCredits) {
   

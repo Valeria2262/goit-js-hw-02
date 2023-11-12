@@ -1,6 +1,4 @@
 
-/* Вторая задача */
-
 
 function formatMessage(message, maxLength) {
     
